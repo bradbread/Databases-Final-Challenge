@@ -1,0 +1,6 @@
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\bin\Debug\CelibateMusic.dacpac
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\bin\Debug\CelibateMusic.dll
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\bin\Debug\CelibateMusic.pdb
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\obj\Debug\CelibateMusic.sqlprojAssemblyReference.cache
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\obj\Debug\CelibateMusic.dll
+C:\Users\102673815\Documents\GitHub\Databases-Final-Challenge\CelibateMusic\CelibateMusic\obj\Debug\CelibateMusic.pdb
